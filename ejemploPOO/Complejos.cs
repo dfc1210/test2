@@ -16,6 +16,12 @@ namespace ejemploPOO
         this.partI=partI;
         }
 
+
+        /// <summary>
+        /// nuevo
+        /// </summary>
+        /// <param name="sumando"></param>
+        /// <returns></returns>
         public Complejos Suma(Complejos sumando)
         {
             var NPR = this.partR + sumando.partR;

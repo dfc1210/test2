@@ -4,15 +4,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejemploPOO", "ejemploPOO\ejemploPOO.csproj", "{4EF7E3B3-4D2F-4A07-BA43-76FA38E152E7}"
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 2
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = http://svr-tfspro01:8080/
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = ejemploPOO\\ejemploPOO.csproj
-		SccProjectName1 = ejemploPOO
-		SccLocalPath1 = ejemploPOO
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
